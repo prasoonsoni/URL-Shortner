@@ -1,0 +1,29 @@
+.input{
+    background-color: transparent;
+    border: none;
+    color: white;
+    font-size: 1.2rem;
+    font-family: 'Fira Code', monospace;
+    text-align: center;
+    border-style: solid;
+    border-width: medium;
+    border-radius: 20px;
+    border-color: #F2EBE9;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    outline: none;
+    width: fit-content;
+}
+
+.input:focus{
+    border-style: solid;
+    border-width: medium;
+    border-radius: 20px;
+    border-color: white;
+    outline: none;
+}
+::placeholder{
+    color: #F2EBE9;
+}

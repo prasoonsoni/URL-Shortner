@@ -1,0 +1,27 @@
+.btn{
+    background-color: #F2EBE9;
+    border: none;
+    color: gray;
+    font-size: 1.2rem;
+    font-family: 'Fira Code', monospace;
+    text-align: center;
+    border-style: solid;
+    border-width: medium;
+    border-radius: 20px;
+    border-color: #F2EBE9;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    outline: none;
+    transition: ease 0.5s;
+    width: 331px;
+
+}
+
+.btn:hover{
+    background-color: white;
+    border-color: white;
+    cursor: pointer;
+    color: black;
+}

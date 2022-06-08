@@ -1,0 +1,47 @@
+.result-container{
+    background-color: white;
+    display: flex;
+    align-items: center;
+    border-radius: 30px;
+
+}
+
+.link-text{
+    font-size: 0.8rem;
+    font-family: 'Fira Code', monospace;
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: gray;
+    transition: ease 0.4s;
+}
+
+.link-text:hover{
+    color: black;
+}
+.link-icon{
+    color: gray;
+    font-size: 1.2rem;
+    margin-right: 20px;
+    text-align: center;
+    transition: ease 0.4s;
+    text-align: center;
+}
+
+.link-icon:hover{
+    color: black;
+    cursor: pointer;
+}
+
+.icon-btn{
+    display: flex;
+    align-items: center;
+    background-color: white;
+    width: 40px;
+}
+
+.icon-btn:hover{
+    text-align: center;
+    background-color: white;
+}
