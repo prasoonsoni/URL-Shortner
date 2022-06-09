@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/prasoonsoni/WhatsApp-Clone">
+  <a href="https://github.com/prasoonsoni/URL-Shortner">
     <img src="https://cdn-icons-png.flaticon.com/512/282/282100.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -10,12 +10,12 @@
   <p align="center">
     Having long URLs ??? No Problem, Shorten them now. 💡
     <br />
-    <a href="https://github.com/prasoonsoni/WhatsApp-Clone"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/prasoonsoni/URL-Shortner"><strong>Explore the docs »</strong></a>
     <br />
     •
-    <a href="https://github.com/prasoonsoni/whatsapp-clone/issues">Report Bug</a>
+    <a href="https://github.com/prasoonsoni/URL-Shortner/issues">Report Bug</a>
     •
-    <a href="https://github.com/prasoonsoni/whatsapp-clone/issues">Request Feature</a>
+    <a href="https://github.com/prasoonsoni/URL-Shortner/issues">Request Feature</a>
     •
   </p>
 </p>
