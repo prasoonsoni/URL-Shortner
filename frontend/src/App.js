@@ -86,7 +86,7 @@ function App() {
 
       <Backdrop
         className='backdrop'
-        sx={{ color: '#fff', zIndex: (theme) => theme.zIndex.drawer + 1, backgroundColor: "#1a1a1d"}}
+        sx={{ color: '#fff', zIndex: (theme) => theme.zIndex.drawer + 1, backgroundColor: "#1a1a1d" }}
         open={open}>
         <h1 className='result-head'>Your Shorten URL</h1>
         {results.map((link) => {
@@ -111,6 +111,7 @@ function App() {
       <Input id="backhalf" placeholder="Back Half (Optional)" />
       <br></br>
       <Button onClick={shortenLink} />
+      <p className='footer'>Made with ❤️ by <a className='portfolio-link' href='https://prasoon.codes/' target='_blank'>Prasoon Soni</a></p>
     </div>
   );
 }

@@ -30,6 +30,24 @@
   border-radius: 50%;
   transition: ease 0.5s;
 }
+
 .close-btn:hover{
   color: black;
+}
+
+.footer{
+  position: absolute;
+  bottom: 10px;
+  font-size: 1.2rem;
+  font-family: 'Fira Code', monospace;
+  color: white;
+}
+
+.portfolio-link{
+  color: white;
+  transition: ease 0.5s;
+}
+
+.portfolio-link:hover{
+  color: gray;
 }
