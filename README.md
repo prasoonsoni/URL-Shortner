@@ -1,11 +1,13 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/75159757/174492628-766133d1-7913-4104-b00e-545843d8992c.png" alt="Logo" width="700" >
+</p>
 <!-- PROJECT LOGO -->
-<br />
 <p align="center">
   <a href="https://github.com/prasoonsoni/URL-Shortner">
     <img src="https://cdn-icons-png.flaticon.com/512/282/282100.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">URL-Shortner 🔗</h3>
+  <h1 align="center">URL Shortner 🔗</h1>
 
   <p align="center">
     Having long URLs ??? No Problem, Shorten them now. 💡
