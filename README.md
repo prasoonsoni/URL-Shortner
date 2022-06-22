@@ -39,7 +39,7 @@
 </p>
 
 <!-- ABOUT THE PROJECT -->
-## <img src="https://openclipart.org/download/307315/1538154643.svg" width="32" height="32"> About The Project
+## <img src="https://cdn-icons-png.flaticon.com/512/3306/3306613.png" width="32" height="32"> About The Project
 URL Shortner is a web app which can help you to get rid of long URLs, shorten them and share them with your friends.
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/427/427735.png" width="32" height="32"> Features
