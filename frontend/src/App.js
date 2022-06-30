@@ -42,10 +42,10 @@ function App() {
       return
     }
 
-    if (backhalf.length > 9) {
-      setSnackbarStatus({ open: true, severity: "error", message: "Back Half length cannot be more than 9" })
-      return
-    }
+    // if (backhalf.length > 9) {
+    //   setSnackbarStatus({ open: true, severity: "error", message: "Back Half length cannot be more than 9" })
+    //   return
+    // }
 
     setLoading(true)
     const response = await fetch(`${BASE_URL}/short`, {
