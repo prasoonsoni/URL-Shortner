@@ -9,7 +9,7 @@ app.use(cors())
 app.use(express.json())
 
 app.get('/', (req, res) => {
-    res.send('<center><h1>Welcome to URL Shortner</h1>')
+    res.redirect("https://urlshortner.prasoon.codes")
 })
 
 app.use('/short', require('./routes/shortUrl'))

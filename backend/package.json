@@ -17,6 +17,6 @@
     "shortid": "^2.2.16"
   },
   "devDependencies": {
-    "nodemon": "^2.0.16"
+    "nodemon": "^2.0.20"
   }
 }
