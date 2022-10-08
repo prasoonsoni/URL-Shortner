@@ -74,6 +74,7 @@ function App() {
     <div className="container">
       <Snackbar
         open={snackbarStatus.open}
+        anchorOrigin={{vertical:'bottom', horizontal:'center'}}
         autoHideDuration={3000}
         onClose={handleClose}>
         <Alert
@@ -108,7 +109,7 @@ function App() {
       <Heading />
       <Input id="url" placeholder="Your URL here." />
       <br></br>
-      <Input id="backhalf" placeholder="Back Half (Optional)" />
+      <Input id="backhalf" placeholder="Slug (Optional)" />
       <br></br>
       <Button onClick={shortenLink} />
       <p className='footer'>Made with ❤️ by <a className='portfolio-link' href='https://prasoon.codes/' target='_blank'>Prasoon Soni</a></p>
