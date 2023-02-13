@@ -7,7 +7,7 @@ router.post('/', async (req, res) => {
     try {
         const { url, back_half } = req.body
         const backHalfExist = await Link.findOne({ urlBackHalf: back_half })
-        if (backHalfExist) {
+        if (backHalfExist && back_half.length!==0) {
             return res.json({ success: false, message: "Back Half already taken." })
         }
 
