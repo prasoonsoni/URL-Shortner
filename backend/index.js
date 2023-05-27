@@ -9,7 +9,7 @@ app.use(cors())
 app.use(express.json())
 
 app.get('/', (req, res) => {
-    res.redirect("https://urlshortner.prasoon.codes")
+    res.redirect("https://urlshortner.bitwiz.me")
 })
 
 app.use('/short', require('./routes/shortUrl'))
